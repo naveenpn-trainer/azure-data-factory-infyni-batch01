@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy Users Data From Input to Output Location",
+				"name": "Copy Users",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
